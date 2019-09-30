@@ -1,3 +1,2 @@
 # image
-intento
-//image:file
+Try to know how this works.
