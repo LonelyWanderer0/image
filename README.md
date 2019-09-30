@@ -1,2 +1,3 @@
 # image
 intento
+//image:file
